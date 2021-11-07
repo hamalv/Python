@@ -1,0 +1,6 @@
+2021-03-16_18:28:01 Starting VM snapshot.
+2021-03-16_18:28:01 Flushing data and locking MySQL tables.
+2021-03-16_18:28:02 MySQL tables lock acquired.
+2021-03-16_18:28:07 Unlocking MySQL tables.
+2021-03-16_18:28:07 MySQL tables unlock completed.
+2021-03-16_18:28:07 VM snapshot completed.

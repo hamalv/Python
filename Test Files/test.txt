@@ -1,0 +1,13 @@
+this is new text.txt file
+this is second line
+this is third line
+
+text that must be replaces is below:
+datadir=/data/mysql
+socket=/var/lib/mysql/mysql.sock
+
+log-error=/var/log/mysqld.log
+pid-file=/var/run/mysqld/mysqld.pid
+2020-06-01T06:26:30.612040Z 6 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: i,NG7uaEPi#N
+
+End of file
